@@ -11,7 +11,7 @@ To get started with Wave Executor, follow these simple steps:
 **Keywords:** Roblox executor, script executor, Roblox hacks, Roblox mods, gaming tools, script engine, Roblox enhancements, Roblox modding 2024.
 
 
-![Wave Executor Preview](/assets/Wave.mp4)
+![Wave Executor Preview](/assets/Wave.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
